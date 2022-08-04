@@ -1,0 +1,1 @@
+Noctua è progetto che implementa un antifurto smart. E' costituito da una serie di dispositivi intelligenti che fungono da sensori e da attuatori intelligenti, cioè sono in grado di misurare grandezze fisiche e o di operare azioni sull'ambiente circostante.
