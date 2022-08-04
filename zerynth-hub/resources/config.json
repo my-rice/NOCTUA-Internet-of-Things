@@ -1,0 +1,10 @@
+{
+    "WIFI_SSID":"Home 2 2.4",
+    "WIFI_PASSWORD":"123a456b789c",
+    "MQTT_CLIENT_ID":"CLIENT_ID",
+    "MQTT_HOST":"stpo0y.stackhero-network.com",
+    "MQTT_PORT":1883,
+    "MQTT_USER":"admin",
+    "MQTT_PASSWORD":"password",
+    "SYSTEM_PASSWORD":"1234"
+}

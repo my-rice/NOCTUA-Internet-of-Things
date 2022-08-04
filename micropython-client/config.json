@@ -1,0 +1,16 @@
+{
+    "type_IN": "IN",
+    "type_EDGE": ["RISING"], 
+    "period_edge_control_ms": 1000,
+    "led_on_time_ms": 1000,
+    "ssid": "Home 1",
+    "password": "123a456b789c",
+    "mqtt_server": "stpo0y.stackhero-network.com",
+    "mqtt_user": "admin",
+    "mqtt_password": "BlackShark4",
+    "topic_pub": "NOCTUA",
+    "type_SENSOR": "MOVEMENT",
+    "value_0_stato_attuale": "NO MOVEMENT",
+    "value_1_stato_attuale": "MOVEMENT",
+    "client_id" : "movimentouno"
+}
