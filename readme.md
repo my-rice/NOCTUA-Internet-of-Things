@@ -15,3 +15,6 @@ The smart devices built are:
 ![window/door sensor](./assets/images/door_window.jpg)
 ### 2. movement sensors (infrared sensors)
 ![movement sensor](./assets/images/movement.jpg)
+
+## Authors
+@gruppo57
